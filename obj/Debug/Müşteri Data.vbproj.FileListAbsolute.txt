@@ -1,0 +1,16 @@
+C:\Users\abdur\source\repos\Müşteri Data\bin\Debug\Müşteri Data.exe
+C:\Users\abdur\source\repos\Müşteri Data\bin\Debug\Müşteri Data.pdb
+C:\Users\abdur\source\repos\Müşteri Data\bin\Debug\Müşteri Data.xml
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri Data.vbprojAssemblyReference.cache
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri_Data.Form1.resources
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri_Data.Resources.resources
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri Data.vbproj.GenerateResource.cache
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri Data.vbproj.CoreCompileInputs.cache
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri Data.exe
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri Data.xml
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri Data.pdb
+C:\Users\abdur\source\repos\Müşteri Data\bin\Debug\Müşteri Data.exe.manifest
+C:\Users\abdur\source\repos\Müşteri Data\bin\Debug\Müşteri Data.application
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri Data.exe.manifest
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri Data.application
+C:\Users\abdur\source\repos\Müşteri Data\obj\Debug\Müşteri Data.vbproj.AssemblyReference.cache
